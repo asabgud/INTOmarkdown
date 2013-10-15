@@ -8,7 +8,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 ## 1. Linux uppsetning
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-![Asa Linux] (/home/ubuntu/Screenshot from 2013-10-15 20:12:39.png)
+![Ása Linux] (http://i.tinyuploads.com/REO5aZ.jpg)
 
 
 Ása setti upp Ubuntu í gegnum Linux, fyrsta tölvan þoldi ekki álagið því var þetta prófað á annarri tölvu. Virkaði þar en fannst vesen að hlutir voru ekki að vistast ef það þurfti að fara út úr kerfinu. Reyndi að setja upp VirtualBox en hætti við. Mesta vesenið var þó að ná í SSH lykilinn, þar sem tölvan fraus og þurfi að byrja upp á nýtt. Einnig virkaði ekki xclip og tók smá tíma að finna út með copy og paste. En það tókst á endanum. 
@@ -18,7 +18,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
-@Ása
+Ása
 Mjög auðvelt, sló bara skipanir inn í terminal gluggan og það heppnaðist strax 
 
 
