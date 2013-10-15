@@ -41,8 +41,8 @@ Code::Blocks
 http://www.codeblocks.org/downloads/25 
 GPL licence
 
-Azureus/Vuze	
-hhtp://dev.vuze.com/
+Azureus/Vuze
+http://dev.vuze.com/
 GPL licence
 
 OpenOffice - Heiðar bæta við
