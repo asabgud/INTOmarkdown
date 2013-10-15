@@ -33,9 +33,19 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-VLC player 	http://www.videolan.org/vlc/download-sources.html 	GPL licence
-Code::Blocks 	http://www.codeblocks.org/downloads/25 			GPL licence
-Azureus/Vuze	hhtp://dev.vuze.com/					GPL licence
+VLC player
+http://www.videolan.org/vlc/download-sources.html 
+GPL licence
+
+Code::Blocks 
+http://www.codeblocks.org/downloads/25 
+GPL licence
+
+Azureus/Vuze	
+hhtp://dev.vuze.com/
+GPL licence
+
+OpenOffice - Heiðar bæta við
 
 ## 5. Unnið með Git (2. hluti)
 
