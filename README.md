@@ -18,9 +18,9 @@ Heiðar: Byrjaði á því að setja upp virtualbox og ættlaði svo að setja u
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
-Ása
-Mjög auðvelt, sló bara skipanir inn í terminal gluggan og það heppnaðist strax 
+Ása: Mjög auðvelt, sló bara skipanir inn í terminal gluggan og það heppnaðist strax 
 
+Heiðar: Mjög auðvelt, bara slá inn skipanir enter og Y.
 
 ## 3. Unnið með Git (1. hluti)
 
