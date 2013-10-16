@@ -11,7 +11,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 
 Ása: Setti upp Ubuntu í gegnum Linux, fyrsta tölvan þoldi ekki álagið því var þetta prófað á annarri tölvu. Virkaði þar en fannst vesen að hlutir voru ekki að vistast ef það þurfti að fara út úr kerfinu. Reyndi að setja upp VirtualBox en hætti við. Mesta vesenið var þó að ná í SSH lykilinn, þar sem tölvan fraus og þurfi að byrja upp á nýtt. Einnig virkaði ekki xclip og tók smá tíma að finna út með copy og paste. En það tókst á endanum, þurfti nokkrum sinnum að sækja nýjan SSH lykil og framkvæma margar aðgerðir aftur ef ég þurfti að fara út úr Ubuntu, mæli ekki með þessari leið. 
-
+Heiðar: Byrjaði á því að setja upp virtualbox og ættlaði svo að setja upp Unbunt 13.04 á því. Fékk ávalt upp critical error þegar ég reyndi að starta Ubuntu sem stöðvaði keyrsluna, bar villuna upp á google, facebook og við dæmatímakennara en engin var með lausn á þessari villu, en ég prófaði að setja vb upp aftur, dl Unbunt upp á nýtt og prófaði líka á ná í eldri útfærsluna 12.10 en alltaf kom sama villan og ekkert virkaði. Sex klukkustundum síðar fór ég í það að setja Ubunt upp á USB og gekk það allt upp í fyrstutilraun án vandræða.
 
 ## 2. Uppsetning á vim && git
 
