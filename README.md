@@ -46,7 +46,9 @@ Azureus/Vuze
 http://dev.vuze.com/
 GPL licence
 
-OpenOffice - Heiðar bæta við
+Apache OpenOffice3
+Http://openoffice.org/download/sorce
+LGPL licence
 
 ## 5. Unnið með Git (2. hluti)
 
