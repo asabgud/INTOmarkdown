@@ -2,6 +2,7 @@
 
 /cc @asabgud @heidaros13
 
+
 ## 1. Linux uppsetning
 
 ![Ása Linux] (http://i.tinyuploads.com/REO5aZ.jpg)
