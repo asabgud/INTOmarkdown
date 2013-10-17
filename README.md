@@ -60,4 +60,4 @@ LGPL licence
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
-https://github.com/asabgud/INTOmarkdowni.git
+https://github.com/asabgud/INTOmarkdown.git
