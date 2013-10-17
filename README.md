@@ -1,11 +1,8 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
 /cc @asabgud @heidaros13
 
 ## 1. Linux uppsetning
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 ![Ása Linux] (http://i.tinyuploads.com/REO5aZ.jpg)
 ![Heiðar Lnux] (http://i.tinyuploads.com/k1oEVP.png)
@@ -16,17 +13,11 @@ Heiðar: Byrjaði á því að setja upp virtualbox og ættlaði svo að setja u
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
-
 Ása: Mjög auðvelt, sló bara skipanir inn í terminal gluggan og það heppnaðist strax 
 
 Heiðar: Mjög auðvelt, bara slá inn skipanir enter og Y.
 
 ## 3. Unnið með Git (1. hluti)
-
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 Forkunin á NIM.cpp gekk vel hjá báðum aðilum. Einfalt var að setja upp aðgang á github.com og vorum við nokkuð fljót að átta okkur á síðunni og hvernig við áttum að gefa okkur báðum aðgang að forkuðu skírslunum.
 Það gekk vel að búa til nýja SSH lykil en Vandræðin í þessum hluta voru hvað mest við að afrita SSH lykilinn úr Terminal yfir á heimasíðuna þar sem hvorukt okkar fengu xclip eða clip ekki til að virka, enduðum á því að fara í file og opna skýrsluna og afrita úr henni (var falin þurftum að finna út hvernig ætti að gera hana sýnilega "Ctrl+h")
@@ -37,8 +28,6 @@ Eftir að við höfðum sent inn frá okkur báðum í aðalskjalið staðfestum
 * https://github.com/asabgud/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
-
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 VLC player
 http://www.videolan.org/vlc/download-sources.html 
@@ -57,7 +46,5 @@ Http://openoffice.org/download/sorce
 LGPL licence
 
 ## 5. Unnið með Git (2. hluti)
-
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
 https://github.com/asabgud/INTOmarkdown.git
