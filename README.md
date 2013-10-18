@@ -48,6 +48,6 @@ LGPL licence
 
 ## 5. Unnið með Git (2. hluti)
 
-Það gekk vel að vinna með markdown skjalið, pull og push skipanir virkuðu vel og að finna út úr hvernig ætti að vinna með skjalið, t.d. ætti að setja inn myndir. 
+Það gekk vel að vinna með markdown skjalið, pull og push skipanir virkuðu vel og að finna út úr því hvernig ætti að vinna með skjalið, t.d. hvernig ætti að setja inn myndir og linka.  
 
 https://github.com/asabgud/INTOmarkdown.git
